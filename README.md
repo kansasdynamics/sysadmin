@@ -1,5 +1,5 @@
-# LPIC
-Linux scripts to practice for LPI Certifications
+# LSA
+Linux System Administration
 
 ## Purpose
 These scripts are used for basic System Administration tasks in multiple Linux distributions.
