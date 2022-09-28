@@ -1,8 +1,8 @@
-# RHEL
-Red Hat Enterprise Linux System Administrator Scripts
+# LPIC
+Linux scripts to practice for LPI Certifications
 
 ## Purpose
-These scripts are used for basic System Administration tasks in RHEL based Linux distributions.
+These scripts are used for basic System Administration tasks in multiple Linux distributions.
 
 ## Usage  
 See the instructions below for each script.  
