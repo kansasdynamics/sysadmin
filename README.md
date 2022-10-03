@@ -14,3 +14,11 @@ Change the hostname of the system.
 sudo chmod +x hostname.sh  
 sudo ./hostname.sh
 ```  
+
+### *Bluetooth*  
+Restore Bluetooth functionality in Kali Linux.
+ 
+```
+sudo chmod +x bluetooth.sh  
+sudo ./bluetooth.sh
+```  
