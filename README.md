@@ -1,5 +1,5 @@
-# LSA
-Linux System Administration
+# SYSADMIN
+Bash and PowerShell scripts for System Administration.
 
 ### *Hostname*  
 Change the hostname of a Linux system.
