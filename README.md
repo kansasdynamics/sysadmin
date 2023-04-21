@@ -1,4 +1,4 @@
-# SYSADMIN
+# System Administration
 Bash and PowerShell scripts for System Administration.
 
 ### *Hostname*  
