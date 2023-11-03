@@ -1,5 +1,5 @@
 # System Administration
-Bash and PowerShell scripts for System Administration.
+Bash, PowerShell, and SQL scripts for System Administration.
 
 ### *Hostname*  
 Change the hostname of a Linux system.
